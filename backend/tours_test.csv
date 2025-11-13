@@ -1,0 +1,102 @@
+id,name,location,type,description,price,min_people,max_people,difficulty,duration_days,rating_avg,available,created_at
+269,Tour Quốc tế 269,Thái Lan,quốc tế,Trải nghiệm quốc tế thú vị số 269,9699917.0,1,10,hard,4,4.8,1,2025-09-30 20:45:07
+74,Tour Cắm trại 74,Ba Vì,cắm trại,Trải nghiệm cắm trại thú vị số 74,25482613.0,3,27,medium,3,4.7,1,2025-09-30 20:45:07
+290,Tour Biển 290,Nha Trang,biển,Trải nghiệm biển thú vị số 290,21086849.0,3,30,hard,5,4.8,1,2025-09-30 20:45:07
+156,Tour Biển 156,Nha Trang,biển,Trải nghiệm biển thú vị số 156,5410401.0,3,24,easy,3,4.6,1,2025-09-30 20:45:07
+105,Tour City tour 105,Chưa rõ,city tour,Trải nghiệm city tour thú vị số 105,11470973.0,3,26,hard,5,4.8,1,2025-09-30 20:45:07
+281,Tour Cắm trại 281,Đà Lạt,cắm trại,Trải nghiệm cắm trại thú vị số 281,2933707.0,3,17,easy,1,4.0,1,2025-09-30 20:45:07
+393,Tour Quốc tế 393,Hàn Quốc,quốc tế,Trải nghiệm quốc tế thú vị số 393,15831339.0,2,16,hard,6,3.7,1,2025-09-30 20:45:07
+125,Tour Quốc tế 125,Malaysia,quốc tế,Trải nghiệm quốc tế thú vị số 125,18016718.0,1,28,hard,2,4.6,1,2025-09-30 20:45:07
+69,Tour Leo núi 69,Ninh Bình,leo núi,Trải nghiệm leo núi thú vị số 69,23662899.0,2,26,easy,2,4.8,1,2025-09-30 20:45:07
+245,Tour Quốc tế 245,Malaysia,quốc tế,Trải nghiệm quốc tế thú vị số 245,28094997.0,1,20,medium,6,4.8,1,2025-09-30 20:45:07
+10,Tour Quốc tế 10,Thái Lan,quốc tế,Trải nghiệm quốc tế thú vị số 10,28460104.0,2,14,easy,3,3.9,1,2025-09-30 20:45:07
+196,Tour Leo núi 196,Hà Giang,leo núi,Trải nghiệm leo núi thú vị số 196,17766824.0,3,22,medium,6,3.8,1,2025-09-30 20:45:07
+305,Tour Leo núi 305,Sa Pa,leo núi,Trải nghiệm leo núi thú vị số 305,18678589.0,2,26,medium,5,4.8,1,2025-09-30 20:45:07
+85,Tour Cắm trại 85,Đà Lạt,cắm trại,Trải nghiệm cắm trại thú vị số 85,19749552.0,2,17,easy,7,4.8,1,2025-09-30 20:45:07
+374,Tour Biển 374,Quảng Ninh,biển,Trải nghiệm biển thú vị số 374,12293205.0,2,12,medium,3,4.7,1,2025-09-30 20:45:07
+391,Tour Cắm trại 391,Đồng Nai,cắm trại,Trải nghiệm cắm trại thú vị số 391,4675174.0,2,28,easy,1,4.2,1,2025-09-30 20:45:07
+499,Tour Leo núi 499,Hà Giang,leo núi,Trải nghiệm leo núi thú vị số 499,16030165.0,3,12,medium,1,4.9,1,2025-09-30 20:45:07
+31,Tour Leo núi 31,Ninh Bình,leo núi,Trải nghiệm leo núi thú vị số 31,15267743.0,3,17,medium,2,4.8,1,2025-09-30 20:45:07
+318,Tour City tour 318,Chưa rõ,city tour,Trải nghiệm city tour thú vị số 318,16617207.0,2,11,easy,1,3.5,1,2025-09-30 20:45:07
+408,Tour Quốc tế 408,Singapore,quốc tế,Trải nghiệm quốc tế thú vị số 408,22291859.0,3,15,easy,2,4.4,1,2025-09-30 20:45:07
+494,Tour Biển 494,Đà Nẵng,biển,Trải nghiệm biển thú vị số 494,8778671.0,1,18,easy,1,3.9,1,2025-09-30 20:45:07
+495,Tour City tour 495,Chưa rõ,city tour,Trải nghiệm city tour thú vị số 495,23971039.0,1,22,medium,2,3.6,1,2025-09-30 20:45:07
+226,Tour Cắm trại 226,Đồng Nai,cắm trại,Trải nghiệm cắm trại thú vị số 226,6408874.0,2,25,hard,1,3.7,1,2025-09-30 20:45:07
+228,Tour Biển 228,Đà Nẵng,biển,Trải nghiệm biển thú vị số 228,9436823.0,3,17,easy,2,4.7,1,2025-09-30 20:45:07
+77,Tour Cắm trại 77,Ba Vì,cắm trại,Trải nghiệm cắm trại thú vị số 77,16802108.0,3,29,hard,3,4.1,1,2025-09-30 20:45:07
+465,Tour Leo núi 465,Sa Pa,leo núi,Trải nghiệm leo núi thú vị số 465,9388196.0,3,13,easy,3,3.8,1,2025-09-30 20:45:07
+474,Tour Biển 474,Đà Nẵng,biển,Trải nghiệm biển thú vị số 474,26120321.0,1,25,hard,1,3.5,1,2025-09-30 20:45:07
+403,Tour Cắm trại 403,Đồng Nai,cắm trại,Trải nghiệm cắm trại thú vị số 403,9743516.0,1,16,medium,7,4.2,1,2025-09-30 20:45:07
+102,Tour Cắm trại 102,Ba Vì,cắm trại,Trải nghiệm cắm trại thú vị số 102,16691190.0,2,21,hard,6,4.9,1,2025-09-30 20:45:07
+336,Tour Biển 336,Đà Nẵng,biển,Trải nghiệm biển thú vị số 336,11812796.0,3,23,easy,5,3.5,1,2025-09-30 20:45:07
+297,Tour City tour 297,Chưa rõ,city tour,Trải nghiệm city tour thú vị số 297,26076281.0,1,17,medium,3,4.1,1,2025-09-30 20:45:07
+223,Tour Quốc tế 223,Hàn Quốc,quốc tế,Trải nghiệm quốc tế thú vị số 223,28404273.0,1,26,easy,3,3.5,1,2025-09-30 20:45:07
+475,Tour Leo núi 475,Hà Giang,leo núi,Trải nghiệm leo núi thú vị số 475,6167501.0,3,17,medium,3,4.0,1,2025-09-30 20:45:07
+174,Tour City tour 174,Chưa rõ,city tour,Trải nghiệm city tour thú vị số 174,24420083.0,3,17,easy,3,3.9,1,2025-09-30 20:45:07
+3,Tour Quốc tế 3,Malaysia,quốc tế,Trải nghiệm quốc tế thú vị số 3,16942874.0,1,29,medium,4,4.7,1,2025-09-30 20:45:07
+335,Tour Biển 335,Quảng Ninh,biển,Trải nghiệm biển thú vị số 335,8747893.0,1,25,medium,5,5.0,1,2025-09-30 20:45:07
+273,Tour Cắm trại 273,Đồng Nai,cắm trại,Trải nghiệm cắm trại thú vị số 273,29700233.0,1,25,hard,5,4.9,1,2025-09-30 20:45:07
+71,Tour Cắm trại 71,Đồng Nai,cắm trại,Trải nghiệm cắm trại thú vị số 71,13265777.0,2,21,medium,3,4.8,1,2025-09-30 20:45:07
+211,Tour Quốc tế 211,Thái Lan,quốc tế,Trải nghiệm quốc tế thú vị số 211,7426770.0,3,11,easy,1,3.8,1,2025-09-30 20:45:07
+64,Tour Quốc tế 64,Malaysia,quốc tế,Trải nghiệm quốc tế thú vị số 64,7285137.0,2,22,hard,5,3.6,1,2025-09-30 20:45:07
+348,Tour Quốc tế 348,Nhật Bản,quốc tế,Trải nghiệm quốc tế thú vị số 348,15064274.0,3,13,easy,2,4.8,1,2025-09-30 20:45:07
+94,Tour Biển 94,Quảng Ninh,biển,Trải nghiệm biển thú vị số 94,7501853.0,1,11,easy,6,3.6,1,2025-09-30 20:45:07
+489,Tour Leo núi 489,Đà Lạt,leo núi,Trải nghiệm leo núi thú vị số 489,8551240.0,1,27,hard,7,4.9,1,2025-09-30 20:45:07
+186,Tour Leo núi 186,Ninh Bình,leo núi,Trải nghiệm leo núi thú vị số 186,29277605.0,3,29,easy,5,4.8,1,2025-09-30 20:45:07
+34,Tour Leo núi 34,Sa Pa,leo núi,Trải nghiệm leo núi thú vị số 34,8329466.0,1,13,hard,1,4.7,1,2025-09-30 20:45:07
+78,Tour City tour 78,Chưa rõ,city tour,Trải nghiệm city tour thú vị số 78,16215061.0,2,23,hard,1,4.2,1,2025-09-30 20:45:07
+1,Tour Leo núi 1,Hà Giang,leo núi,Trải nghiệm leo núi thú vị số 1,30000000.0,3,11,easy,4,5.0,1,2025-09-30 20:45:07
+12,Tour City tour 12,Chưa rõ,city tour,Trải nghiệm city tour thú vị số 12,18640601.0,3,14,easy,3,5.0,1,2025-09-30 20:45:07
+311,Tour Biển 311,Đà Nẵng,biển,Trải nghiệm biển thú vị số 311,9534045.0,3,17,easy,2,4.0,1,2025-09-30 20:45:07
+23,Tour Quốc tế 23,Malaysia,quốc tế,Trải nghiệm quốc tế thú vị số 23,12924624.0,3,28,medium,7,4.9,1,2025-09-30 20:45:07
+73,Tour Biển 73,Phú Quốc,biển,Trải nghiệm biển thú vị số 73,9509563.0,3,23,easy,6,4.2,1,2025-09-30 20:45:07
+183,Tour City tour 183,Chưa rõ,city tour,Trải nghiệm city tour thú vị số 183,21193947.0,1,25,hard,2,4.5,1,2025-09-30 20:45:07
+132,Tour Biển 132,Quảng Ninh,biển,Trải nghiệm biển thú vị số 132,24460093.0,1,29,easy,2,3.7,1,2025-09-30 20:45:07
+413,Tour Cắm trại 413,Đà Lạt,cắm trại,Trải nghiệm cắm trại thú vị số 413,29885249.0,1,26,easy,3,4.4,1,2025-09-30 20:45:07
+195,Tour Leo núi 195,Sa Pa,leo núi,Trải nghiệm leo núi thú vị số 195,26552711.0,3,25,easy,5,4.9,1,2025-09-30 20:45:07
+56,Tour Cắm trại 56,Đà Lạt,cắm trại,Trải nghiệm cắm trại thú vị số 56,10738650.0,1,19,medium,7,4.2,1,2025-09-30 20:45:07
+149,Tour Biển 149,Quảng Ninh,biển,Trải nghiệm biển thú vị số 149,17173309.0,3,22,easy,4,3.9,1,2025-09-30 20:45:07
+19,Tour Biển 19,Phú Quốc,biển,Trải nghiệm biển thú vị số 19,3670595.0,2,27,medium,1,3.8,1,2025-09-30 20:45:07
+429,Tour City tour 429,Chưa rõ,city tour,Trải nghiệm city tour thú vị số 429,9591500.0,3,19,easy,1,4.2,1,2025-09-30 20:45:07
+79,Tour Cắm trại 79,Đồng Nai,cắm trại,Trải nghiệm cắm trại thú vị số 79,21247366.0,3,18,easy,2,3.8,1,2025-09-30 20:45:07
+498,Tour Biển 498,Nha Trang,biển,Trải nghiệm biển thú vị số 498,12636774.0,2,25,medium,2,4.4,1,2025-09-30 20:45:07
+412,Tour Leo núi 412,Đà Lạt,leo núi,Trải nghiệm leo núi thú vị số 412,6885836.0,1,10,medium,3,3.7,1,2025-09-30 20:45:07
+325,Tour Biển 325,Phú Quốc,biển,Trải nghiệm biển thú vị số 325,12095031.0,3,20,easy,1,3.5,1,2025-09-30 20:45:07
+487,Tour Leo núi 487,Sa Pa,leo núi,Trải nghiệm leo núi thú vị số 487,3880305.0,1,13,easy,3,4.7,1,2025-09-30 20:45:07
+80,Tour Cắm trại 80,Đà Lạt,cắm trại,Trải nghiệm cắm trại thú vị số 80,5761196.0,1,14,hard,7,4.1,1,2025-09-30 20:45:07
+40,Tour Quốc tế 40,Malaysia,quốc tế,Trải nghiệm quốc tế thú vị số 40,18842454.0,1,30,easy,7,3.8,1,2025-09-30 20:45:07
+455,Tour City tour 455,Chưa rõ,city tour,Trải nghiệm city tour thú vị số 455,15845591.0,2,18,easy,5,4.8,1,2025-09-30 20:45:07
+47,Tour Cắm trại 47,Đồng Nai,cắm trại,Trải nghiệm cắm trại thú vị số 47,25727934.0,3,20,easy,4,4.8,1,2025-09-30 20:45:07
+267,Tour Cắm trại 267,Ba Vì,cắm trại,Trải nghiệm cắm trại thú vị số 267,1348919.0,1,20,medium,5,3.7,1,2025-09-30 20:45:07
+394,Tour City tour 394,Chưa rõ,city tour,Trải nghiệm city tour thú vị số 394,13787175.0,3,21,hard,4,4.6,1,2025-09-30 20:45:07
+354,Tour City tour 354,Chưa rõ,city tour,Trải nghiệm city tour thú vị số 354,1814044.0,2,28,medium,5,3.6,1,2025-09-30 20:45:07
+209,Tour Biển 209,Phú Quốc,biển,Trải nghiệm biển thú vị số 209,22902890.0,2,29,easy,6,3.6,1,2025-09-30 20:45:07
+279,Tour Cắm trại 279,Đồng Nai,cắm trại,Trải nghiệm cắm trại thú vị số 279,13281458.0,3,10,hard,7,3.8,1,2025-09-30 20:45:07
+292,Tour Cắm trại 292,Đà Lạt,cắm trại,Trải nghiệm cắm trại thú vị số 292,1730276.0,2,28,easy,4,4.3,1,2025-09-30 20:45:07
+319,Tour Cắm trại 319,Đồng Nai,cắm trại,Trải nghiệm cắm trại thú vị số 319,14391405.0,1,10,medium,3,4.2,1,2025-09-30 20:45:07
+306,Tour Cắm trại 306,Đà Lạt,cắm trại,Trải nghiệm cắm trại thú vị số 306,9532846.0,3,20,medium,5,3.9,1,2025-09-30 20:45:07
+256,Tour Quốc tế 256,Hàn Quốc,quốc tế,Trải nghiệm quốc tế thú vị số 256,13871205.0,3,24,easy,2,4.1,1,2025-09-30 20:45:07
+70,Tour Quốc tế 70,Hàn Quốc,quốc tế,Trải nghiệm quốc tế thú vị số 70,9850243.0,3,24,hard,7,3.9,1,2025-09-30 20:45:07
+490,Tour Biển 490,Phú Quốc,biển,Trải nghiệm biển thú vị số 490,23269194.0,2,21,easy,5,4.1,1,2025-09-30 20:45:07
+254,Tour City tour 254,Chưa rõ,city tour,Trải nghiệm city tour thú vị số 254,27084605.0,1,17,hard,2,4.5,1,2025-09-30 20:45:07
+155,Tour Quốc tế 155,Malaysia,quốc tế,Trải nghiệm quốc tế thú vị số 155,28436535.0,3,28,medium,6,4.1,1,2025-09-30 20:45:07
+83,Tour Leo núi 83,Ninh Bình,leo núi,Trải nghiệm leo núi thú vị số 83,14606232.0,1,25,medium,5,4.9,1,2025-09-30 20:45:07
+303,Tour Leo núi 303,Ninh Bình,leo núi,Trải nghiệm leo núi thú vị số 303,22316129.0,3,13,medium,2,4.3,1,2025-09-30 20:45:07
+173,Tour Quốc tế 173,Hàn Quốc,quốc tế,Trải nghiệm quốc tế thú vị số 173,10935014.0,2,27,easy,2,4.0,1,2025-09-30 20:45:07
+323,Tour Leo núi 323,Hà Giang,leo núi,Trải nghiệm leo núi thú vị số 323,4905340.0,3,14,hard,2,4.5,1,2025-09-30 20:45:07
+91,Tour Leo núi 91,Ninh Bình,leo núi,Trải nghiệm leo núi thú vị số 91,11035929.0,3,16,medium,4,3.7,1,2025-09-30 20:45:07
+181,Tour Quốc tế 181,Thái Lan,quốc tế,Trải nghiệm quốc tế thú vị số 181,7940426.0,3,21,hard,5,4.9,1,2025-09-30 20:45:07
+417,Tour Quốc tế 417,Singapore,quốc tế,Trải nghiệm quốc tế thú vị số 417,5467311.0,3,10,easy,1,4.0,1,2025-09-30 20:45:07
+471,Tour Leo núi 471,Hà Giang,leo núi,Trải nghiệm leo núi thú vị số 471,18806450.0,2,14,easy,4,3.9,1,2025-09-30 20:45:07
+397,Tour Biển 397,Đà Nẵng,biển,Trải nghiệm biển thú vị số 397,11748200.0,3,18,medium,5,4.9,1,2025-09-30 20:45:07
+387,Tour Quốc tế 387,Singapore,quốc tế,Trải nghiệm quốc tế thú vị số 387,23234699.0,2,27,hard,6,4.8,1,2025-09-30 20:45:07
+476,Tour Biển 476,Đà Nẵng,biển,Trải nghiệm biển thú vị số 476,1846697.0,2,10,easy,1,3.8,1,2025-09-30 20:45:07
+441,Tour Quốc tế 441,Singapore,quốc tế,Trải nghiệm quốc tế thú vị số 441,25988187.0,3,30,hard,5,4.1,1,2025-09-30 20:45:07
+326,Tour City tour 326,Chưa rõ,city tour,Trải nghiệm city tour thú vị số 326,14512785.0,1,18,easy,4,4.4,1,2025-09-30 20:45:07
+435,Tour Leo núi 435,Ninh Bình,leo núi,Trải nghiệm leo núi thú vị số 435,21330654.0,3,18,medium,6,4.1,1,2025-09-30 20:45:07
+501,Tuor Hạ Long,Nha Trang,biển,"Hạ Long hiện nay là một trong những khu vực hình thành lâu đời nhất trên lãnh thổ Việt Nam. Có địa hình địa chất đa dạng và phức tạp bao gồm cả đồi núi, thung lũng, ven biển, hải đảo, vũng vịnh. Do đó thời tiết ở khu vực này thường bị ảnh hưởng bởi nhiều yếu tố.",50000000.0,5,10,hard,3,3.0,1,2025-10-15 21:09:58
+87,Tour Cắm trại 87,Đồng Nai,cắm trại,Trải nghiệm cắm trại thú vị số 87,18168875.0,1,30,hard,3,4.7,1,2025-09-30 20:45:07
+76,Tour Leo núi 76,Hà Giang,leo núi,Trải nghiệm leo núi thú vị số 76,20215473.0,3,11,medium,5,3.5,1,2025-09-30 20:45:07
+442,Tour Cắm trại 442,Đà Lạt,cắm trại,Trải nghiệm cắm trại thú vị số 442,24807046.0,3,29,medium,5,3.8,1,2025-09-30 20:45:07
+16,Tour Biển 16,Đà Nẵng,biển,Trải nghiệm biển thú vị số 16,7237944.0,2,19,hard,4,4.8,1,2025-09-30 20:45:07
+251,Tour City tour 251,Chưa rõ,city tour,Trải nghiệm city tour thú vị số 251,4463468.0,1,18,hard,3,4.5,1,2025-09-30 20:45:07
