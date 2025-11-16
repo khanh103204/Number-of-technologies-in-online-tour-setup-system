@@ -103,14 +103,14 @@ Người dùng có thể nhập yêu cầu tour bằng câu tự nhiên, AI sẽ
   
 Các hình ảnh:
 
-<p align = "center"> <img width="848" height="609" alt="image" src="https://github.com/user-attachments/assets/82aced08-424f-4cd8-9362-aedeea614df3" />
+<p align = "center"> <img width="848" height="609" alt="image" src="https://github.com/user-attachments/assets/b09a601e-52db-49db-aa11-0ca1671f5c2e" />
  </p>
 
-<p align = "center">Hình 1: Giao diện thời gian server </p>
+<p align = "center">Hình 1: Giao diện đăng ký / đăng nhập </p>
 
-<p align = "center"> <img width="848" height="609" alt="image" src="https://github.com/user-attachments/assets/206ec908-e334-448a-bb90-38ab2c1e0daa" />
+<p align = "center"> <img width="848" height="609" alt="image"  src="https://github.com/user-attachments/assets/1ee97d94-80f2-43e9-a227-4327bf7b24e5" />
  </p>
-<p align = "center">Hình 2: Giao diện thời gian client </p>
+<p align = "center">Hình 2: Giao diện trang chủ </p>
 
 <p align = "center"> <img width="848" height="609" alt="image" src="https://github.com/user-attachments/assets/ed6cd34e-2504-40d8-8477-8d6a1987a454" />
  </p>
