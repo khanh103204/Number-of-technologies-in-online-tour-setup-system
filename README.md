@@ -136,6 +136,12 @@ Các hình ảnh:
 
 <p align = "center">Hình 6: Gia diện Tour đã đặt </p>
 
+<p align = "center"> <img width="848" height="609" alt="image" src="https://github.com/user-attachments/assets/c01c9284-bc81-43b2-998d-e21e7f7d1e02" />
+
+ </p>
+
+<p align = "center">Hình 7: Gia diện Admin </p>
+
 ---
 
 ## 📝 4. Các bước cài đặt
