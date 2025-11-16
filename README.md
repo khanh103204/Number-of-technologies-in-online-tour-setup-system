@@ -25,51 +25,53 @@
 
 ## 📘 1. Giới thiệu hệ thống
 
-**SMARTTOUR_AI** là ứng dụng công nghệ số hỗ trợ **đặt tour du lịch trực tuyến thông minh**, được xây dựng bằng **Flutter (Material 3, Riverpod)**.  
-Ứng dụng giúp khách hàng tìm kiếm, gợi ý và đặt tour nhanh chóng, đồng thời cho phép quản trị viên và nhà cung cấp quản lý tour, khách hàng, lịch trình và doanh thu.  
-Tích hợp **AI trợ lý du lịch** giúp người dùng tìm tour phù hợp với nhu cầu cá nhân chỉ bằng ngôn ngữ tự nhiên.
+Đề tài “Ứng dụng công nghệ số trong hệ thống đặt tour du lịch trực tuyến” tập trung vào việc xây dựng một ứng dụng web quản lý tour du lịch, cho phép người dùng tìm kiếm, đặt tour, nhận gợi ý thông minh từ AI và quản lý thông tin cá nhân.
+
+Ứng dụng sử dụng mô hình Frontend – Backend – AI Module – Database, kết hợp công nghệ web hiện đại và trí tuệ nhân tạo để mang đến trải nghiệm thông minh, tiện lợi, và cá nhân hóa.
+
+Người dùng có thể nhập yêu cầu tour bằng câu tự nhiên, AI sẽ phân tích nhu cầu và đưa ra gợi ý tour phù hợp. Backend xử lý logic đặt tour, quản lý thông tin khách hàng và lưu trữ vào cơ sở dữ liệu. Frontend hiển thị giao diện trực quan, thân thiện và hỗ trợ đa thiết bị.
 
 ---
 
-### ⚙️ Thành phần hệ thống
+## 🔧 2. Ngôn ngữ lập trình sử dụng:
+- Frontend: Vue.js
 
-- **Người dùng (Khách du lịch):**
-  - Đăng ký / Đăng nhập tài khoản.
-  - Tìm kiếm tour theo điểm đến, giá, thời gian, loại hình.
-  - Nhận **gợi ý tour từ AI** dựa trên sở thích, lịch sử tìm kiếm.
-  - Đặt tour, thanh toán, và theo dõi đơn đặt.
+- Backend API: Django REST
 
-- **Quản trị viên / Nhà cung cấp:**
-  - Thêm, sửa, xóa thông tin tour.
-  - Quản lý danh mục tour, loại hình du lịch, giá vé.
-  - Xem thống kê lượt đặt tour, doanh thu và đánh giá.
+- Database: MySQL
 
-- **Trợ lý AI (AI Travel Agent):**
-  - Phân tích nhu cầu người dùng và gợi ý tour phù hợp.
-  - Có thể trả lời câu hỏi như:
-    - “Tôi muốn đi du lịch Đà Lạt 3 ngày 2 đêm, gợi ý tour giúp tôi.”
-    - “Có tour nào dưới 3 triệu không?”
-    - “Tôi muốn du lịch biển trong tháng tới.”
-  - Tích hợp mô hình **Ollama Llama3.2 / GPT local gateway** qua mạng nội bộ.
-  - Hỗ trợ cả **trò chuyện tự nhiên và hành động đặt tour trực tiếp.**
+- Search / Cache: Redis 
+
+- AI Module: Python microservice (FastAPI / Flask) dùng NLP + Recommender
 
 ---
 
-## 🧩 2. Công nghệ sử dụng
+## Công nghệ sử dụng:
 
-| Thành phần | Công nghệ |
-|-------------|------------|
-| **Ngôn ngữ** | Dart |
-| **Framework** | Flutter (Material 3) |
-| **State Management** | Riverpod |
-| **CSDL nội bộ** | SharedPreferences / Hive |
-| **AI Integration** | OpenAI / Ollama Local Gateway |
-| **Kiến trúc** | MVVM (Models – State – Features – Widgets) |
-| **Giao diện** | Material 3, Dark/Light mode tự động |
+
+ - [![Frontend](https://img.shields.io/badge/Frontend-Vue.js-A7E8BD?style=for-the-badge&logo=vuedotjs&logoColor=1A1A1A)]()  
+  - Xây dựng giao diện trực quan, nhẹ và linh hoạt.  
+  - Tối ưu tốc độ và dễ học, phù hợp cho các trang tour động.
+
+
+- [![Backend](https://img.shields.io/badge/Backend%20API-Node.js%20%7C%20Express%20%7C%20Django%20REST%20%7C%20FastAPI-144552?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)]()  
+  - Xử lý API phía server, quản lý logic nghiệp vụ.  
+  - Hỗ trợ cả Node.js và Python framework tùy yêu cầu hệ thống.  
+
+
+- [![Database](https://img.shields.io/badge/Database-MySQL-FDE5C8?style=for-the-badge&logo=mysql&logoColor=00618A)]()  
+  - Lưu trữ dữ liệu tour, người dùng, đặt tour và toàn bộ thông tin của hệ thống.  
+  - Hỗ trợ truy vấn nhanh, ổn định, phù hợp hệ thống thực tế.
+
+
+- [![AI Module](https://img.shields.io/badge/AI%20Module-Python%20%7C%20FastAPI%20%2F%20Flask-A7E8BD?style=for-the-badge&logo=python&logoColor=1A1A1A)]()  
+  - Xử lý yêu cầu người dùng bằng NLP (Natural Language Processing).  
+  - Tích hợp Recommender Engine gợi ý tour phù hợp.  
+  - Triển khai dưới dạng Python microservice (FastAPI / Flask) dễ dàng tích hợp với Backend chính.
 
 ---
 
-## 🚀 3. Các chức năng chính
+## 🚀 3. Các chức năng chính và hình ảnh
 
 1. **Đăng ký / Đăng nhập**
    - Hỗ trợ đăng nhập bằng email hoặc số điện thoại.
@@ -93,13 +95,36 @@ Tích hợp **AI trợ lý du lịch** giúp người dùng tìm tour phù hợp
 
 5. **AI Trợ lý du lịch**
    - Gợi ý tour phù hợp theo yêu cầu tự nhiên:
-     - “Tour 2 ngày 1 đêm ở miền Trung.”
-     - “Gợi ý tour Đà Nẵng vào dịp Tết.”
+     - “Tour đi biển 3 người 2 ngày 1 đêm ở Nha Trang giá khoảng 20 triêu.”
+     - “Tour đi cắm trại 5 người 4 ngày 2 đêm ở Đà Lạt giá khoảng 30 triệu.”
+     - “Gợi ý tour Đà Nẵng .”
+     - “Gợi ý tour leo núi Hà Giang .”
    - Tự động lọc, phân tích dữ liệu và hiển thị tour hợp lý nhất.
+  
+Các hình ảnh:
+
+<p align = "center"> <img width="848" height="609" alt="image" src="https://github.com/user-attachments/assets/82aced08-424f-4cd8-9362-aedeea614df3" />
+ </p>
+
+<p align = "center">Hình 1: Giao diện thời gian server </p>
+
+<p align = "center"> <img width="848" height="609" alt="image" src="https://github.com/user-attachments/assets/206ec908-e334-448a-bb90-38ab2c1e0daa" />
+ </p>
+<p align = "center">Hình 2: Giao diện thời gian client </p>
+
+<p align = "center"> <img width="848" height="609" alt="image" src="https://github.com/user-attachments/assets/ed6cd34e-2504-40d8-8477-8d6a1987a454" />
+ </p>
+
+<p align = "center">Hình 3: Giao diện chọn múi giờ </p>
+
+<p align = "center"> <img width="848" height="609" alt="image" src="https://github.com/user-attachments/assets/224a6a77-5d3c-403c-8857-80984eecee72" />
+ </p>
+
+<p align = "center">Hình 4: Gia diện đồng bộ múi giờ đã chọn </p>
 
 ---
 
-## 🧠 4. Giao diện ứng dụng
+## 📝 4. Các bước cài đặt
 
 <p align="center">
   <img src="<img width="1916" height="902" alt="image" src="https://github.com/user-attachments/assets/20df75b8-1b2e-4e9f-a906-9e2e3a5d9c02" /> width="400"/>
@@ -123,21 +148,12 @@ Tích hợp **AI trợ lý du lịch** giúp người dùng tìm tour phù hợp
 
 ---
 
-## ⚙️ 5. Hướng dẫn cài đặt và chạy ứng dụng
+## 👥 5. Liên hệ
 
-### 🔧 Yêu cầu hệ thống
+👤 Người thực hiện: Đặng Văn Khánh
 
-- **Flutter SDK:** >= 3.22  
-- **Dart SDK:** >= 3.3  
-- **Thiết bị:** Android 8+ / iOS 14+  
-- **Dung lượng:** ~60MB  
-- **Mạng:** Có thể hoạt động offline (AI yêu cầu kết nối mạng nội bộ khi bật gateway).
+🏫 Lớp CNTT 16-03 
 
----
+✉️ Liên hệ qua email: khanh.lehends@gmail.com
 
-### ⚙️ Các bước cài đặt và chạy
-
-1. **Clone mã nguồn:**
-   ```bash
-   git clone https://github.com/khanh103204/Number-of-technologies-in-online-tour-setup-system.git
-   cd smarttour_ai
+📞 Số điện thoại: 0862058018
