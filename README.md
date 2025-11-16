@@ -146,25 +146,135 @@ Các hình ảnh:
 
 ## 📝 4. Các bước cài đặt
 
-<p align="center">
-  <img src="<img width="1916" height="902" alt="image" src="https://github.com/user-attachments/assets/20df75b8-1b2e-4e9f-a906-9e2e3a5d9c02" /> width="400"/>
-</p>
-<p align="center"><em>Trang chủ – gợi ý tour thông minh</em></p>
+🔹 Bước 1: Chuẩn bị môi trường
 
-<p align="center">
-  <img src="docs/screens/2_search.jpg" width="400"/>
-</p>
-<p align="center"><em>Tìm kiếm và lọc tour theo tiêu chí</em></p>
+Node.js & npm (Frontend + Backend Node.js)
 
-<p align="center">
-  <img src="docs/screens/3_booking.jpg" width="400"/>
-</p>
-<p align="center"><em>Đặt tour và thanh toán nhanh chóng</em></p>
+Tải Node.js: https://nodejs.org/
 
-<p align="center">
-  <img src="docs/screens/4_admin.jpg" width="400"/>
-</p>
-<p align="center"><em>Giao diện quản trị và thống kê</em></p>
+Kiểm tra phiên bản:
+
+node -v
+npm -v
+
+
+Phiên bản đề xuất: Node.js >= 16, npm >= 8.
+
+Python (AI Module / Backend Python)
+
+Tải Python 3.10+: https://www.python.org/downloads/
+
+Kiểm tra phiên bản:
+
+python --version
+pip --version
+
+
+MySQL (Database)
+
+Cài đặt MySQL Community Server: https://dev.mysql.com/downloads/mysql/
+
+Tạo cơ sở dữ liệu và user:
+
+CREATE DATABASE tour_db;
+CREATE USER 'tour_user'@'localhost' IDENTIFIED BY 'password';
+GRANT ALL PRIVILEGES ON tour_db.* TO 'tour_user'@'localhost';
+FLUSH PRIVILEGES;
+
+
+Docker 
+
+Tải và cài đặt Docker Desktop: https://www.docker.com/products/docker-desktop
+
+🔹 Bước 2: Tải mã nguồn dự án
+git clone https://github.com/your-repo/TourBooking-App.git
+cd TourBooking-App
+
+
+Nếu không dùng Git, bấm Download ZIP trên GitHub và giải nén.
+
+🔹 Bước 3: Cài đặt và chạy Frontend
+cd frontend
+npm install
+npm run serve
+
+
+Truy cập ứng dụng Frontend: http://localhost:8080
+
+Badge công nghệ Frontend:
+
+
+🔹 Bước 4: Cài đặt và chạy Backend
+
+Node.js Backend:
+
+cd backend
+npm install
+npm run dev  # hoặc npm start
+
+
+Python Backend (FastAPI / Flask):
+
+cd backend
+pip install -r requirements.txt
+uvicorn main:app --reload   # FastAPI
+hoặc python app.py  # Flask
+
+
+Backend chạy mặc định trên cổng 8000: http://localhost:8000
+
+Badge công nghệ Backend:
+
+
+🔹 Bước 5: Cài đặt và chạy AI Module
+cd ai_module
+pip install -r requirements.txt
+uvicorn ai_app:app --reload
+
+
+AI Module xử lý NLP + Recommender, nhận yêu cầu từ Frontend và Backend.
+
+Badge công nghệ AI Module:
+
+
+🔹 Bước 6: Kết nối cơ sở dữ liệu
+
+Cập nhật thông tin kết nối Database trong file config Backend và AI Module:
+
+DB_HOST=localhost
+DB_NAME=tour_db
+DB_USER=tour_user
+DB_PASSWORD=password
+DB_PORT=3306
+
+
+Kiểm tra kết nối bằng cách chạy Backend và truy cập API /health hoặc tạo tour mẫu.
+
+Badge Database:
+
+
+🔹 Bước 7: Tùy chọn Docker (Container hóa toàn bộ ứng dụng)
+docker-compose up --build
+
+
+Frontend, Backend, AI Module và MySQL sẽ chạy trong container.
+
+Truy cập ứng dụng tại http://localhost:8080
+
+Badge Docker:
+
+
+🔹 Bước 8: Sử dụng ứng dụng
+
+Mở trình duyệt tại http://localhost:8080.
+
+Tạo tài khoản hoặc đăng nhập.
+
+Tìm kiếm tour, chọn tour muốn đặt.
+
+Nhận gợi ý từ AI và xác nhận đặt tour.
+
+Kiểm tra lịch sử đặt tour và thông tin người dùng.
 
 ---
 
