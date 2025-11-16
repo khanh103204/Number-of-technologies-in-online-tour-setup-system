@@ -112,15 +112,29 @@ Các hình ảnh:
  </p>
 <p align = "center">Hình 2: Giao diện trang chủ </p>
 
-<p align = "center"> <img width="848" height="609" alt="image" src="https://github.com/user-attachments/assets/ed6cd34e-2504-40d8-8477-8d6a1987a454" />
+<p align = "center"> <img width="848" height="609" alt="image"  src="https://github.com/user-attachments/assets/d560a712-0987-4278-93ce-007ac530935a" />
+
  </p>
 
-<p align = "center">Hình 3: Giao diện chọn múi giờ </p>
+<p align = "center">Hình 3: Giao diện trang chủ </p>
 
-<p align = "center"> <img width="848" height="609" alt="image" src="https://github.com/user-attachments/assets/224a6a77-5d3c-403c-8857-80984eecee72" />
+<p align = "center"> <img width="848" height="609" alt="image"  src="https://github.com/user-attachments/assets/d76e8852-cba5-4f2d-87bf-66e68e74aea2" />
+
  </p>
 
-<p align = "center">Hình 4: Gia diện đồng bộ múi giờ đã chọn </p>
+<p align = "center">Hình 4: Gia diện Booking </p>
+
+<p align = "center"> <img width="848" height="609" alt="image"  src="https://github.com/user-attachments/assets/075d11e6-6a9d-44bc-8d92-2262aa3f85f3" />
+
+ </p>
+
+<p align = "center">Hình 5: Gia diện thanh toán </p>
+
+<p align = "center"> <img width="848" height="609" alt="image"  src="https://github.com/user-attachments/assets/9895c259-b9bd-4a3a-aa2d-5337a8f10553" />
+
+ </p>
+
+<p align = "center">Hình 6: Gia diện Tour đã đặt </p>
 
 ---
 
