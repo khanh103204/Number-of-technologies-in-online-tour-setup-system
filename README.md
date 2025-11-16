@@ -111,7 +111,7 @@ Ngôn ngữ và framework chính:
      - “Gợi ý tour leo núi Hà Giang .”
    - Tự động lọc, phân tích dữ liệu và hiển thị tour hợp lý nhất.
   
-Các hình ảnh:
+- Các hình ảnh:
 
 <p align = "center"> <img width="848" height="609" alt="image" src="https://github.com/user-attachments/assets/b09a601e-52db-49db-aa11-0ca1671f5c2e" />
  </p>
