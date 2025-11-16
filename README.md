@@ -34,40 +34,50 @@ Người dùng có thể nhập yêu cầu tour bằng câu tự nhiên, AI sẽ
 ---
 
 ## 🔧 2. Ngôn ngữ lập trình sử dụng:
+Ngôn ngữ và framework chính:
+
 - Frontend: Vue.js
 
-- Backend API: Django REST
+- Backend API: Node.js (Express) / Django REST
 
 - Database: MySQL
 
-- Search / Cache: Redis 
+- Search / Cache: Redis
 
-- AI Module: Python microservice (FastAPI / Flask) dùng NLP + Recommender
+- AI Module: Python microservice (FastAPI / Flask) sử dụng NLP + Recommender Engine
 
 ---
 
 ## Công nghệ sử dụng:
 
 
- - [![Frontend](https://img.shields.io/badge/Frontend-Vue.js-A7E8BD?style=for-the-badge&logo=vuedotjs&logoColor=1A1A1A)]()  
-  - Xây dựng giao diện trực quan, nhẹ và linh hoạt.  
-  - Tối ưu tốc độ và dễ học, phù hợp cho các trang tour động.
+ - [![Frontend](https://img.shields.io/badge/Frontend-Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)]()
+   - Xây dựng giao diện người dùng trực quan, thân thiện và responsive trên mọi thiết bị.  
+   - Hiển thị dữ liệu tour động, tương tác trực tiếp với Backend API.  
+   - Tối ưu hiệu suất, tải trang nhanh và dễ bảo trì.
 
 
-- [![Backend](https://img.shields.io/badge/Backend%20API-Node.js%20%7C%20Express%20%7C%20Django%20REST%20%7C%20FastAPI-144552?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)]()  
-  - Xử lý API phía server, quản lý logic nghiệp vụ.  
-  - Hỗ trợ cả Node.js và Python framework tùy yêu cầu hệ thống.  
+
+- [![Backend Node.js](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
+   - Node.js + Express: xử lý API, quản lý logic nghiệp vụ, kết nối Frontend và Database.  
+   - Hỗ trợ mở rộng nhanh, phù hợp hệ thống có nhiều người dùng đồng thời.
 
 
-- [![Database](https://img.shields.io/badge/Database-MySQL-FDE5C8?style=for-the-badge&logo=mysql&logoColor=00618A)]()  
-  - Lưu trữ dữ liệu tour, người dùng, đặt tour và toàn bộ thông tin của hệ thống.  
-  - Hỗ trợ truy vấn nhanh, ổn định, phù hợp hệ thống thực tế.
+- [![Database](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+   - Lưu trữ toàn bộ dữ liệu người dùng, tour, đặt tour, thanh toán.  
+   - Hỗ trợ truy vấn nhanh, bảo toàn dữ liệu, phù hợp ứng dụng thực tế.
 
 
-- [![AI Module](https://img.shields.io/badge/AI%20Module-Python%20%7C%20FastAPI%20%2F%20Flask-A7E8BD?style=for-the-badge&logo=python&logoColor=1A1A1A)]()  
-  - Xử lý yêu cầu người dùng bằng NLP (Natural Language Processing).  
-  - Tích hợp Recommender Engine gợi ý tour phù hợp.  
-  - Triển khai dưới dạng Python microservice (FastAPI / Flask) dễ dàng tích hợp với Backend chính.
+- [![Redis](https://img.shields.io/badge/Cache%20%2F%20Search-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)]()
+  - Cải thiện tốc độ tìm kiếm tour và phản hồi API nhanh chóng.  
+  - Giảm tải truy vấn Database, tối ưu trải nghiệm người dùng.
+
+
+- [![AI Module](https://img.shields.io/badge/AI%20Module-Python%20%7C%20FastAPI%20%2F%20Flask-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)]()
+   - Phân tích yêu cầu người dùng bằng NLP (Natural Language Processing).  
+   - Tích hợp Recommender Engine gợi ý tour phù hợp với sở thích, lịch trình, và ngân sách.  
+   - Triển khai dưới dạng microservice, dễ dàng kết nối với Backend.
+
 
 ---
 
