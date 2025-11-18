@@ -59,7 +59,7 @@ Ngôn ngữ và framework chính:
 
 
 - [![Backend Node.js](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)
-   - **Node.js + Express:** xử lý API, quản lý logic nghiệp vụ, kết nối Frontend và Database.  
+   - Node.js + Express: xử lý API, quản lý logic nghiệp vụ, kết nối Frontend và Database.  
    - Hỗ trợ mở rộng nhanh, phù hợp hệ thống có nhiều người dùng đồng thời.
 
 
